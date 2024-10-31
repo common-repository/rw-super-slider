@@ -1,0 +1,383 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RW Super slider\n"
+"POT-Creation-Date: 2017-05-03 11:24+0530\n"
+"PO-Revision-Date: 2017-05-03 11:24+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: m4c-postduplicator.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin-editor.php:7 admin-editor.php:39
+msgid "Add RW Slider"
+msgstr ""
+
+#: admin-editor.php:16
+msgid "Insert RW Slider"
+msgstr ""
+
+#: admin-editor.php:46 widget.php:78
+msgid "You have not added any RW Slider yet. To add RW slider please "
+msgstr ""
+
+#: admin-editor.php:47 widget.php:79
+msgid "click here"
+msgstr ""
+
+#: cmb.php:18
+msgid "No. Of Items on the Small Screen"
+msgstr ""
+
+#: cmb.php:24
+msgid "No. Of Items on the Medium Screen"
+msgstr ""
+
+#: cmb.php:30
+msgid "No. Of Items on the Large Screen"
+msgstr ""
+
+#: cmb.php:36
+msgid "Margin Right(px) on item"
+msgstr ""
+
+#: cmb.php:42
+msgid "Infinity loop"
+msgstr ""
+
+#: cmb.php:45 cmb.php:55 cmb.php:65 cmb.php:75 cmb.php:85 cmb.php:95
+#: cmb.php:105 cmb.php:118 cmb.php:129 cmb.php:143 cmb.php:155
+msgid "Yes"
+msgstr ""
+
+#: cmb.php:46 cmb.php:56 cmb.php:66 cmb.php:76 cmb.php:86 cmb.php:96
+#: cmb.php:106 cmb.php:119 cmb.php:130 cmb.php:144 cmb.php:156
+msgid "No"
+msgstr ""
+
+#: cmb.php:52
+msgid "Center item"
+msgstr ""
+
+#: cmb.php:62
+msgid "Mouse drag enabled"
+msgstr ""
+
+#: cmb.php:72
+msgid "Touch drag enabled"
+msgstr ""
+
+#: cmb.php:82
+msgid "Stage pull to edge"
+msgstr ""
+
+#: cmb.php:92
+msgid "Item pull to edge"
+msgstr ""
+
+#: cmb.php:102
+msgid "Padding left and right on stage"
+msgstr ""
+
+#: cmb.php:115
+msgid "Auto Width"
+msgstr ""
+
+#: cmb.php:126
+msgid "Show Next/Prev Buttons"
+msgstr ""
+
+#: cmb.php:140
+msgid "Show dots navigation"
+msgstr ""
+
+#: cmb.php:152
+msgid "Lazy load images"
+msgstr ""
+
+#: cmb.php:162
+msgid "Display Title"
+msgstr ""
+
+#: cmb.php:167
+msgid "Display Description"
+msgstr ""
+
+#: cmb.php:172
+msgid "Description Max. Length"
+msgstr ""
+
+#: cmb.php:178
+msgid "Add Link Url"
+msgstr ""
+
+#: cmb.php:183
+msgid "Open Link in New Tab"
+msgstr ""
+
+#: cmb.php:188 cmb.php:211
+msgid "Slider Configuration"
+msgstr ""
+
+#: cmb.php:191 cmb.php:413
+msgid "Post Type"
+msgstr ""
+
+#: cmb.php:192 widget.php:45
+msgid "Slider"
+msgstr ""
+
+#: cmb.php:227
+msgid "Please fill slider configuration options."
+msgstr ""
+
+#: cmb.php:371
+msgid "Post Types"
+msgstr ""
+
+#: cmb.php:377
+msgid "Conditions"
+msgstr ""
+
+#: cmb.php:382
+msgid "Number of Items"
+msgstr ""
+
+#: cmb.php:387
+msgid "Include Post Ids"
+msgstr ""
+
+#: cmb.php:392
+msgid "Exclude Post Ids"
+msgstr ""
+
+#: cmb.php:429
+msgid "Please configure post type slider settings"
+msgstr ""
+
+#: cmb.php:452 rw-super-slider.php:98
+msgid "Select Taxonomy"
+msgstr ""
+
+#: cmb.php:479
+msgid "Select Term Value"
+msgstr ""
+
+#: cmb.php:561
+msgid "Add"
+msgstr ""
+
+#: cpt.php:5
+msgctxt "Post Type General Name"
+msgid "RW Sliders"
+msgstr ""
+
+#: cpt.php:6
+msgctxt "Post Type Singular Name"
+msgid "RW Slider"
+msgstr ""
+
+#: cpt.php:7
+msgid "RW Sliders"
+msgstr ""
+
+#: cpt.php:8 cpt.php:32
+msgid "RW Slider"
+msgstr ""
+
+#: cpt.php:9
+msgid "Item Archives"
+msgstr ""
+
+#: cpt.php:10
+msgid "All RW Slide"
+msgstr ""
+
+#: cpt.php:11
+msgid "Add New RW Slider"
+msgstr ""
+
+#: cpt.php:12 cpt.php:13
+msgid "New RW Slider"
+msgstr ""
+
+#: cpt.php:14
+msgid "Edit RW Slider"
+msgstr ""
+
+#: cpt.php:15
+msgid "Update RW Slider"
+msgstr ""
+
+#: cpt.php:16
+msgid "View RW Slider"
+msgstr ""
+
+#: cpt.php:17
+msgid "View RW Sliders"
+msgstr ""
+
+#: cpt.php:18
+msgid "Search RW Slider"
+msgstr ""
+
+#: cpt.php:19
+msgid "Not found"
+msgstr ""
+
+#: cpt.php:20
+msgid "Not found in Trash"
+msgstr ""
+
+#: cpt.php:21
+msgid "Featured Image"
+msgstr ""
+
+#: cpt.php:22
+msgid "Set featured image"
+msgstr ""
+
+#: cpt.php:23
+msgid "Remove featured image"
+msgstr ""
+
+#: cpt.php:24
+msgid "Use as featured image"
+msgstr ""
+
+#: cpt.php:25
+msgid "Insert into RW Slider"
+msgstr ""
+
+#: cpt.php:26
+msgid "Uploaded to this RW Slider"
+msgstr ""
+
+#: cpt.php:27
+msgid "Items list"
+msgstr ""
+
+#: cpt.php:28
+msgid "Items list navigation"
+msgstr ""
+
+#: cpt.php:29
+msgid "Filter items list"
+msgstr ""
+
+#: cpt.php:33
+msgid "RW Slider is custom post type of RW Super Slider Plugin"
+msgstr ""
+
+#: cpt.php:71 cpt.php:74
+msgid "RW Slider updated."
+msgstr ""
+
+#: cpt.php:72
+msgid "Custom field updated."
+msgstr ""
+
+#: cpt.php:73
+msgid "Custom field deleted."
+msgstr ""
+
+#: cpt.php:76
+#, php-format
+msgid "RW Slider restored to revision from %s"
+msgstr ""
+
+#: cpt.php:77
+msgid "RW Slider published."
+msgstr ""
+
+#: cpt.php:78
+msgid "RW Slider saved."
+msgstr ""
+
+#: cpt.php:79
+msgid "RW Slider submitted."
+msgstr ""
+
+#: cpt.php:81
+#, php-format
+msgid "RW Slider scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: cpt.php:83
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: cpt.php:85
+msgid "RW Slider draft updated."
+msgstr ""
+
+#: custom-cmb.php:6
+msgid "Custom Slider"
+msgstr ""
+
+#: custom-cmb.php:16
+msgid "Please configure custom post type slider settings"
+msgstr ""
+
+#: custom-cmb.php:21
+msgid "Slides"
+msgstr ""
+
+#: custom-cmb.php:42 rw-super-slider.php:113 rw-super-slider.php:115
+msgid "New Slide"
+msgstr ""
+
+#: custom-cmb.php:57 rw-super-slider.php:123
+msgid "Upload image"
+msgstr ""
+
+#: custom-cmb.php:60 rw-super-slider.php:107 rw-super-slider.php:127
+msgid "Delete"
+msgstr ""
+
+#: rw-super-slider.php:71
+msgid "Please fill all conditions and then try to add condition."
+msgstr ""
+
+#: rw-super-slider.php:101
+msgid "is equal to"
+msgstr ""
+
+#: rw-super-slider.php:102
+msgid "is not equal to"
+msgstr ""
+
+#: rw-super-slider.php:105
+msgid "Select Term"
+msgstr ""
+
+#: rw-super-slider.php:151
+msgid "..."
+msgstr ""
+
+#: widget.php:13
+msgid "RWSS Slider"
+msgstr ""
+
+#: widget.php:14
+msgid "Displays RW Slider"
+msgstr ""
+
+#: widget.php:49
+msgid "Title:"
+msgstr ""
+
+#: widget.php:62
+msgid "Slider:"
+msgstr ""

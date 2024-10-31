@@ -1,0 +1,23 @@
+/* CSS Document */
+.owl-carousel { border-radius:5px; background:#fff; border:1px solid #eee; margin-bottom:50px;
+ -moz-box-shadow: 0 0 10px #c1c1c1; -webkit-box-shadow: 0 0 10px #c1c1c1; box-shadow: 0 0 10px #c1c1c1;}
+.owl-carousel .item { padding:20px;   }
+.owl-carousel .item h3 { margin:0; padding:12px 0 0; color:#333; font-size:20px;  }
+.owl-carousel .item p { margin:0; padding:10px 0 0; color:#333; font-size:14px; }
+
+.owl-carousel .owl-nav .owl-next, .owl-carousel .owl-nav .owl-prev { width:48px; height:48px; display:block; 
+position:absolute; top:45%; text-indent:-9009px; }
+
+.owl-carousel .owl-nav .owl-next { right:30px; background:url(../images/arrow-right.png) no-repeat right top; }
+.owl-carousel .owl-nav .owl-prev { left:30px; background:url(../images/arrow-left.png) no-repeat right top; }
+
+.owl-carousel .owl-nav .owl-next:hover { background:#000 url(../images/arrow-right.png) no-repeat right top; }
+.owl-carousel .owl-nav .owl-prev:hover { background:#000 url(../images/arrow-left.png) no-repeat right top; }
+
+.owl-dots { position:absolute; bottom:-40px; width:100%; text-align:center; }
+
+.rwss-owl-multiple .owl-nav .owl-next, .rwss-owl-multiple .owl-nav .owl-prev { top:35%; }
+.rwss-owl-multiple .owl-nav .owl-next { right:-40px; background:#000 url(../images/arrow-right.png) no-repeat right top; }
+.rwss-owl-multiple .owl-nav .owl-prev { left:-40px;  background:#000 url(../images/arrow-left.png) no-repeat right top;}
+.rwss-owl-multiple .owl-nav .owl-next:hover { background:#333 url(../images/arrow-right.png) no-repeat right top; }
+.rwss-owl-multiple .owl-nav .owl-prev:hover { background:#333 url(../images/arrow-left.png) no-repeat right top;}

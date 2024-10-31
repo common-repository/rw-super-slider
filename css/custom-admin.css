@@ -1,0 +1,35 @@
+/*.rwss-custom-repeater-item-holder .image-preview { width:100px; height:100px; }*/
+.condition_tax, .condition_operator, .condition_term { width:27%; margin-bottom:5px;  }
+
+
+.rwss-custom-item-toggle { margin-top:-3px; margin-bottom:20px; padding:20px; background:#fff; border:1px solid #eee; 
+box-sizing: border-box; display:inline-block; width:100%; 
+-webkit-border-bottom-right-radius: 5px; -webkit-border-bottom-left-radius: 5px; -moz-border-radius-bottomright: 5px;
+-moz-border-radius-bottomleft: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px;}
+.rwss-custom-repeater-item h3 { margin:20px 0 0; padding:0; }
+
+.rwss-custom-repeater-item  input[type=text],
+.rwss-custom-repeater-item  input[type=url],
+.rwss-custom-repeater-item  input[type=number], 
+.rwss-custom-repeater-item  textarea { clear:both; width:100%; margin-bottom:10px; }
+.rwss-custom-repeater-item  textarea { margin-bottom:5px; }
+.rwss-custom-repeater-item  input[type=number] { width:40%; margin-bottom:5px; } 
+
+.rwss-custom-repeater-item .image-preview { clear:left; }
+.rwss-custom-repeater-item .img-upload { width:250px; padding:5px; position:relative; }
+.img-upload input[type=button] { margin-left:10px; top:58%; position:absolute; }
+
+.rwss-custom-repeater-delete{float:right; cursor:pointer; }
+
+/* By Prashant */
+.rwss-custom-repeater-item-list .rwss-custom-repeater-item .rwss-custom-slide-title {
+width:100%; padding: 10px; border-radius:5px;  box-sizing: border-box; cursor:pointer;  }
+
+.rwss-custom-slide-title { background:#eee url(../images/arrow-up.png) no-repeat right 5px; }
+.rwss-custom-slide-title.collapse { background:#eee url(../images/arrow-down.png) no-repeat right 5px; }
+
+.rwss-custom-repeater-item-list .rwss-custom-repeater-item 
+.rwss-custom-slide-title.collapse + .rwss-custom-item-toggle { display:none; }
+
+.rwss-custom-repeater-item { margin-bottom:20px; }
+
